@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Shoter3000/Shoter3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nejc! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a computer scinece student from Slovenia.
+
+
+
+## 🛠 Skills
+- Java
+- Python
+- HTML 
+- CSS
+- Javascript
+- SQL
+- PL/SQL
+
+## Current activities
+👩‍💻 I'm currently working on The Bricks game
+
+🧠 I'm currently learning js and php. Also learning how to operate in Oracle APEX
