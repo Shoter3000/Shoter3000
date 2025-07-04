@@ -17,6 +17,4 @@ I'm a computer scinece student from Slovenia.
 - PL/SQL
 
 ## Current activities
-👩‍💻 I'm currently working on The Bricks game
-
 🧠 I'm currently learning js and php. Also learning how to operate in Oracle APEX
